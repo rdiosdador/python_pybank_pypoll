@@ -1,0 +1,6 @@
+Total Months: 86
+---------------------------------------------------- 
+Total P & L: 38,382,578.00
+Average P & L Change: $-2,315.12
+Greatest increase in P & L: feb-12 ($1,926,159.00)
+Greatest decrease in P & L: sep-13 ($-2,196,167.00)
